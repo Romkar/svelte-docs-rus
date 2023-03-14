@@ -1,4 +1,4 @@
-|![icon](_media\svelte-logo-horizontal.svg)|
+|![icon](_media/svelte-logo-horizontal.svg)|
 |--|
 ![logo](_media/sk.png)
 
