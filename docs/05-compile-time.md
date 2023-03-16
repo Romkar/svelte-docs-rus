@@ -1,11 +1,7 @@
 # Компиляция
 ---
 
-В обычных условиях, вам не нужно напрямую взаимодействовать с компилятором Svelte, достаточно просто интегрировать его в вашу систему сборки используя один из следующих плагинов-бандлеров:
-
-* [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) для пользователей [Rollup](https://rollupjs.org)
-* [svelte-loader](https://github.com/sveltejs/svelte-loader) для пользователей [webpack](https://webpack.js.org)
-* или из [поддерживаемых сообществом](https://sveltesociety.dev/tools)
+Обычно вы не взаимодействуете с компилятором Svelte напрямую, а интегрируете его в свою систему сборки с помощью плагина-бандлера. Плагин-бандлер, который команда Svelte рекомендует и в который вкладывает больше всего средств, это [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte). Фреймворк [SvelteKit](https://kit.svelte.dev/) предоставляет настройку, использующую `vite-plugin-svelte` для сборки приложений, а также [инструмент для упаковки библиотек компонентов Svelte](https://romkar.github.io/sveltekit-docs-rus/#/30-advanced/70-packaging). Общество Svelte поддерживает список [других плагинов-бандлеров](https://sveltesociety.dev/tools/#bundling) для дополнительных инструментов, таких как [Rollup](https://rollupjs.org) и [Webpack](https://webpack.js.org).
 
 Тем не менее, полезно знать, как пользоваться компилятором, так как эти плагины обычно предоставляют возможность настройки его параметров.
 
