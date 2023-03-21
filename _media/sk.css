@@ -859,11 +859,13 @@ body {
  color:#3d8fd1
 }
 .token.deleted {
- text-decoration:line-through
+ text-decoration:line-through;
+ color: red;
 }
 .token.inserted {
  border-bottom:1px dotted #202746;
- text-decoration:none
+ text-decoration:none;
+ color: green;
 }
 .token.italic {
  font-style:italic
@@ -889,4 +891,14 @@ code .token {
 
 img[alt="icon_docsify"]{
     width: 50px;
+}
+
+@media only screen and (max-width: 900px) {
+    #main {
+        margin: 0;
+    }
+       
+    .markdown-section {
+        max-width: 100%;
+    }
 }
