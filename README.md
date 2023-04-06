@@ -20,8 +20,9 @@ Svelte — это принципиально новый подход к созд
 и тут [https://github.com/sveltejs-translations](https://github.com/sveltejs-translations)
 
 ---
+![GitHub last commit](https://img.shields.io/github/last-commit/Romkar/svelte-docs-rus?color=FF3E00&style=flat-square)
+
 **TODO:**
-`обновлено 16.03.2023`
 - [ ] Обновить перевод документации до текущей версии (актуализировать)
     - [x] добавить раздел "Начало работы"
     - [ ] обновить раздел "Предупреждения a11y"
