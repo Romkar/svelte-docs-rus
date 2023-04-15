@@ -1,3 +1,5 @@
+# Что нового в Svelte: Декабрь 2021
+
 ---
 - title: Что нового в Svelte: Декабрь 2021
 - description: "SVELTE Summit Fall 2021, Рич Харрис присоединяется к Vercel, а Кевин идет на полный рабочий день в Svelte Society"

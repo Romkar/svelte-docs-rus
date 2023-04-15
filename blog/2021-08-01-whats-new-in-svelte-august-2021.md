@@ -1,3 +1,5 @@
+# Что нового в Svelte: Август 2021
+
 ---
 - title: Что нового в Svelte: Август 2021
 - description: Shadow DOM, export и await - ОГО!
