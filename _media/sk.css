@@ -770,7 +770,7 @@ body {
  margin:0 2px;
  max-width:inherit;
  overflow:inherit;
- white-space:inherit
+ /* white-space:inherit */
 }
 .markdown-section output {
  padding:1.7rem 1.4rem;
